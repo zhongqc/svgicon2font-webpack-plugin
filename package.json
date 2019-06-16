@@ -1,0 +1,35 @@
+{
+  "name": "svgicon2font-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for svgicon to webfont",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongqc/svgicon2font-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "svg",
+    "icon",
+    "webfont",
+    "font",
+    "iconfont"
+  ],
+  "author": "Zhongqc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongqc/svgicon2font-loader/issues"
+  },
+  "homepage": "https://github.com/zhongqc/svgicon2font-loader#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "svgicon2font": "^1.0.2"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  }
+}
