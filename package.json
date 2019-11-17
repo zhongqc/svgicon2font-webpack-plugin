@@ -1,6 +1,6 @@
 {
   "name": "svgicon2font-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack plugin for svgicon to webfont",
   "main": "index.js",
   "scripts": {
