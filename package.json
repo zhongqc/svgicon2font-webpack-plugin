@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhongqc/svgicon2font-loader.git"
+    "url": "git+https://github.com/zhongqc/svgicon2font-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -22,9 +22,9 @@
   "author": "Zhongqc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhongqc/svgicon2font-loader/issues"
+    "url": "https://github.com/zhongqc/svgicon2font-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/zhongqc/svgicon2font-loader#readme",
+  "homepage": "https://github.com/zhongqc/svgicon2font-webpack-plugin#readme",
   "dependencies": {
     "md5": "^2.2.1",
     "svgicon2font": "^1.0.2"
